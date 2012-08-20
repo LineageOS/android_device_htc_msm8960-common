@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWX//+60\u003d",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 314
+      },
+      "writtenOn": "2012-08-20T08:12:25Z",
+      "side": 1,
+      "message": "i think this is sammy specific",
+      "revId": "451561a8505d50eafcd5c29e37538b87e2c04c0b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
