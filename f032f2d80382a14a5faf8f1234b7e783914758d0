@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAXH///kg\u003d",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 258,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-08-31T01:17:38Z",
+      "side": 1,
+      "message": "should be 1080 to match with the previous 1080p entry.\nalso, is this tabbed or spaced?",
+      "revId": "f032f2d80382a14a5faf8f1234b7e783914758d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
