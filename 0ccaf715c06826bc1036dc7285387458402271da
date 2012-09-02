@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAXH//+u8\u003d",
+        "filename": "camera/camera.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 1056,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-09-02T13:05:09Z",
+      "side": 1,
+      "message": "is it really ok to have these two just be an alias for each other?",
+      "revId": "0ccaf715c06826bc1036dc7285387458402271da",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
