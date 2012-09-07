@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAXX///wM\u003d",
+        "filename": "camera/QCameraHWI_Parm.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 1843,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-09-07T23:01:16Z",
+      "side": 1,
+      "message": "might as well get rid of this useless ifdef",
+      "revId": "4a151bb8d1df7d7bac8eb5fa8533c03d8d149fd9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
