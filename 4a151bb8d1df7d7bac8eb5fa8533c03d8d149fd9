@@ -16,6 +16,24 @@
       "revId": "4a151bb8d1df7d7bac8eb5fa8533c03d8d149fd9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAXX///q8\u003d",
+        "filename": "camera/QCameraHWI_Parm.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 1843,
+      "author": {
+        "id": 2927
+      },
+      "writtenOn": "2012-09-08T07:40:38Z",
+      "side": 1,
+      "message": "Yes, I\u0027ll do another patch that cleans up the code. There\u0027s junk like this all over the place.",
+      "parentUuid": "AAAAXX///wM\u003d",
+      "revId": "4a151bb8d1df7d7bac8eb5fa8533c03d8d149fd9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
