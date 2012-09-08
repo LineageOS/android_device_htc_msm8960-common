@@ -16,6 +16,24 @@
       "revId": "35b093636ec647b23edc9724c585f0aee989715c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAXX///qw\u003d",
+        "filename": "camera/QCameraHWI_Parm.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 1041,
+      "author": {
+        "id": 2927
+      },
+      "writtenOn": "2012-09-08T07:51:40Z",
+      "side": 1,
+      "message": "CameraParameters defines either the max-x or x-max versions but it\u0027s useful to have both for compatability. We could add KEY_MAX_SHARPNESS_AOSP or similar and then use that perhaps but that might just confuse people.",
+      "parentUuid": "AAAAXX///ww\u003d",
+      "revId": "35b093636ec647b23edc9724c585f0aee989715c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
