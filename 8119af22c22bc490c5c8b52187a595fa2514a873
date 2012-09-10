@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAXX///QY\u003d",
+        "filename": "overlay/packages/apps/Camera/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 4123
+      },
+      "writtenOn": "2012-09-10T07:40:08Z",
+      "side": 1,
+      "message": "I think you meant \"Enable Zero Shutter Lag\" instead of \"Disable face detection on the front camera\". :)",
+      "revId": "8119af22c22bc490c5c8b52187a595fa2514a873",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
