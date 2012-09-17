@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAYX//+Vo\u003d",
+        "filename": "camera/QCameraHWI_Parm.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 2408,
+      "author": {
+        "id": 2927
+      },
+      "writtenOn": "2012-09-17T23:16:54Z",
+      "side": 1,
+      "message": "This line is redundant now because the values are filled in by the getThumbSizesFromAspectRatio call.",
+      "parentUuid": "AAAAYX//+WI\u003d",
+      "revId": "4062b3562e39201719666199e59aff3ea1ff5094",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYX//+WM\u003d",
         "filename": "camera/QCameraHWI_Still.cpp",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2012-09-17T22:17:55Z",
       "side": 1,
       "message": "perhaps bring the if (isLiveSnapshot()) into the previous if else statement?",
+      "revId": "4062b3562e39201719666199e59aff3ea1ff5094",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+Vg\u003d",
+        "filename": "camera/QCameraHWI_Still.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 377,
+      "author": {
+        "id": 2927
+      },
+      "writtenOn": "2012-09-17T23:16:54Z",
+      "side": 1,
+      "message": "Could do but livesnap mode is quite separate to ZSL mode so it makes sense to separate them.",
+      "parentUuid": "AAAAYX//+WM\u003d",
       "revId": "4062b3562e39201719666199e59aff3ea1ff5094",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
