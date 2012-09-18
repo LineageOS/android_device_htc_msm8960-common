@@ -69,6 +69,24 @@
       "revId": "4062b3562e39201719666199e59aff3ea1ff5094",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//+VU\u003d",
+        "filename": "camera/QCameraHWI_Still.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 377,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2012-09-18T00:01:51Z",
+      "side": 1,
+      "message": "I guess my main question was, does live snapshot always supersede ZSL, or is it impossible for both to be active?",
+      "parentUuid": "AAAAYX//+Vg\u003d",
+      "revId": "4062b3562e39201719666199e59aff3ea1ff5094",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
