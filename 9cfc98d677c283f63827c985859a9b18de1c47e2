@@ -16,6 +16,24 @@
       "revId": "9cfc98d677c283f63827c985859a9b18de1c47e2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//73Y\u003d",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 4123
+      },
+      "writtenOn": "2013-01-19T03:55:36Z",
+      "side": 1,
+      "message": "Lol. Love your nitpicks.",
+      "parentUuid": "AAAAcn//73w\u003d",
+      "revId": "9cfc98d677c283f63827c985859a9b18de1c47e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
