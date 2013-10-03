@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da37b569_d96dcecd",
+        "filename": "power/power.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 6351
+      },
+      "writtenOn": "2013-10-03T01:43:27Z",
+      "side": 1,
+      "message": "Did you intend to make these all \"50000\" rather than making them all \"500000\"?",
+      "revId": "f068de1cbe7f5468f5bbd7b4190a10e95ce4e930",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
