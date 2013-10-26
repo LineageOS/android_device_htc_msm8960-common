@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_6f72b97e",
+        "filename": "libril/ril.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 3857,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-10-26T05:40:54Z",
+      "side": 1,
+      "message": "This is no longer remapped to IMS_NETWORK_STATE_CHANGED?",
+      "revId": "fc07c51d1b19b7d13bcaabd45cdb7792ab27ad0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_cf5c2df0",
+        "filename": "libril/ril_unsol_commands.h",
+        "patchSetId": 5
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-10-26T05:40:54Z",
+      "side": 1,
+      "message": "The index in the comments is duplicated. Copy paste error?",
+      "revId": "fc07c51d1b19b7d13bcaabd45cdb7792ab27ad0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
