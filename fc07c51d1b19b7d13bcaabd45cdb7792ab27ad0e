@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "1a4dcd0f_2f6cb19b",
+        "filename": "libril/ril.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 3857,
+      "author": {
+        "id": 322
+      },
+      "writtenOn": "2013-10-26T05:43:13Z",
+      "side": 1,
+      "message": "patchset3 removes the forwarding of the IMS to caf, since our htc phones do not handle caf\u0027s ims, and error with D/RilRequest( 1030): [0019]\u003c RIL_REQUEST_IMS_REGISTRATION_STATE error: com.android.internal.telephony.CommandException: REQUEST_NOT_SUPPORTED Keep it stubbed for now, and maybe add proper support in future.",
+      "parentUuid": "1a4dcd0f_6f72b97e",
+      "revId": "fc07c51d1b19b7d13bcaabd45cdb7792ab27ad0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a4dcd0f_cf5c2df0",
         "filename": "libril/ril_unsol_commands.h",
         "patchSetId": 5
@@ -30,6 +48,24 @@
       "writtenOn": "2013-10-26T05:40:54Z",
       "side": 1,
       "message": "The index in the comments is duplicated. Copy paste error?",
+      "revId": "fc07c51d1b19b7d13bcaabd45cdb7792ab27ad0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_4f69fd8a",
+        "filename": "libril/ril_unsol_commands.h",
+        "patchSetId": 5
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 322
+      },
+      "writtenOn": "2013-10-26T05:43:13Z",
+      "side": 1,
+      "message": "yea ill fix that.",
+      "parentUuid": "1a4dcd0f_cf5c2df0",
       "revId": "fc07c51d1b19b7d13bcaabd45cdb7792ab27ad0e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
