@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_d05e0a76",
+        "filename": "libril/ril.cpp",
+        "patchSetId": 6
+      },
+      "lineNbr": 3850,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2013-10-28T06:00:58Z",
+      "side": 1,
+      "message": "Either don\u0027t break here, or get rid of the remap below.",
+      "revId": "1e43504d935d5c5f72b16973f0b6442a6ce35c4d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
