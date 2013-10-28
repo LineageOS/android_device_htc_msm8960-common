@@ -16,6 +16,24 @@
       "revId": "1e43504d935d5c5f72b16973f0b6442a6ce35c4d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_70db76ee",
+        "filename": "libril/ril.cpp",
+        "patchSetId": 6
+      },
+      "lineNbr": 3850,
+      "author": {
+        "id": 322
+      },
+      "writtenOn": "2013-10-28T06:22:17Z",
+      "side": 1,
+      "message": "good catch. because of this, most of my testing has been done without the remap. so i will test with the remap and make the change accordingly.",
+      "parentUuid": "1a4dcd0f_d05e0a76",
+      "revId": "1e43504d935d5c5f72b16973f0b6442a6ce35c4d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
