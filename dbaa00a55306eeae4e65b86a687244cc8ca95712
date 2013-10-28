@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_44c47f3f",
+        "filename": "libril/ril_unsol_commands.h",
+        "patchSetId": 7
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-10-28T18:24:04Z",
+      "side": 0,
+      "message": "looks like you removed this, might as well remove the actual function implementation in ril.cpp",
+      "revId": "dbaa00a55306eeae4e65b86a687244cc8ca95712",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
