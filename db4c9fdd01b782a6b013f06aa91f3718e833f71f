@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_b05c9eee",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 4380
+      },
+      "writtenOn": "2013-12-24T18:34:16Z",
+      "side": 1,
+      "message": "Wouldn\u0027t you want to set it to BOARD_SEPOLICY_DIRS +\u003d \\ so as not to reset the inherited system-wide policies?",
+      "revId": "db4c9fdd01b782a6b013f06aa91f3718e833f71f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_5072027e",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 4380
+      },
+      "writtenOn": "2013-12-24T18:34:16Z",
+      "side": 1,
+      "message": "Same as above +\u003d instead of :\u003d",
+      "revId": "db4c9fdd01b782a6b013f06aa91f3718e833f71f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
