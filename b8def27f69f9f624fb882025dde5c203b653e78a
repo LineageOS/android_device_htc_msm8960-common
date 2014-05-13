@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_d3118cb1",
+        "filename": "libril/ril.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 1059,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-05-13T07:00:53Z",
+      "side": 0,
+      "message": "The format field is gone I\u0027m assuming?",
+      "revId": "b8def27f69f9f624fb882025dde5c203b653e78a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
