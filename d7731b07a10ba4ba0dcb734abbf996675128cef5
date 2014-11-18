@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "faac7902_384b912d",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-18T23:41:28Z",
+      "side": 1,
+      "message": "USE_MINIKIN does nothing.",
+      "revId": "d7731b07a10ba4ba0dcb734abbf996675128cef5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
