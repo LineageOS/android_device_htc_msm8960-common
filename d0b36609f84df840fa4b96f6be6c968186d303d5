@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_62f38d0b",
+        "filename": "configs/hostapd_default.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2014-12-03T19:37:27Z",
+      "side": 1,
+      "message": "Perhaps this could change to hw_mode\u003dn (or commented out since default is n)",
+      "revId": "d0b36609f84df840fa4b96f6be6c968186d303d5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
