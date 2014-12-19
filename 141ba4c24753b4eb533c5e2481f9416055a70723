@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_b6765a3c",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-12-19T18:06:33Z",
+      "side": 1,
+      "message": "I don\u0027t think this is actually necessary at all.",
+      "revId": "141ba4c24753b4eb533c5e2481f9416055a70723",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
