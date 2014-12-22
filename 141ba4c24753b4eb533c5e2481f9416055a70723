@@ -16,6 +16,24 @@
       "revId": "141ba4c24753b4eb533c5e2481f9416055a70723",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_d7be7dfe",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2014-12-22T10:36:58Z",
+      "side": 1,
+      "message": "Seems to be necessary in cm-11. Breaks the build without it.",
+      "parentUuid": "7aa08908_b6765a3c",
+      "revId": "141ba4c24753b4eb533c5e2481f9416055a70723",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
