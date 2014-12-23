@@ -34,6 +34,24 @@
       "revId": "141ba4c24753b4eb533c5e2481f9416055a70723",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_1204937c",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-12-23T11:34:01Z",
+      "side": 1,
+      "message": "Ooops, for some reason I thought this was a cm-12 patchset.",
+      "parentUuid": "7aa08908_d7be7dfe",
+      "revId": "141ba4c24753b4eb533c5e2481f9416055a70723",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
