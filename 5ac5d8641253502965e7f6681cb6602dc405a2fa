@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ac371cc_8ec87c76",
+        "filename": "libril/ril.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 2467,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2015-04-09T17:32:47Z",
+      "side": 1,
+      "message": "ifndef HCRADIO",
+      "revId": "5ac5d8641253502965e7f6681cb6602dc405a2fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
