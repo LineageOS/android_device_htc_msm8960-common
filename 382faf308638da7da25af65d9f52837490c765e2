@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f93b717_e002dc3e",
+        "filename": "libril/ril.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 2552,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-12-10T00:04:41Z",
+      "side": 1,
+      "message": "I don\u0027t think this is right. I\u0027m pretty sure we changed this on purpose.",
+      "revId": "382faf308638da7da25af65d9f52837490c765e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
