@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f7f9b97_7f3bc39b",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 5530
+      },
+      "writtenOn": "2015-12-22T01:02:48Z",
+      "side": 1,
+      "message": ":\u003d or +\u003d   ?",
+      "range": {
+        "startLine": 29,
+        "startChar": 0,
+        "endLine": 29,
+        "endChar": 27
+      },
+      "revId": "a909b48f722ec15653f5681f34d4412e972392e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
