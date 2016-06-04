@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_f763e340",
+        "filename": "configs/hostapd_default.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 982,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-06-04T18:03:32Z",
+      "side": 1,
+      "message": "Isn\u0027t this a no-op since 0 is the default?",
+      "revId": "ee5f556ae1d7143e9d3c2534f380985a8f53da67",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
