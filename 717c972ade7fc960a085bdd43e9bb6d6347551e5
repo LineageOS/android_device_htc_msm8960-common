@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_d054db23",
+        "filename": "configs/media_codecs.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 5530
+      },
+      "writtenOn": "2016-09-12T17:19:09Z",
+      "side": 1,
+      "message": "OCD says remove extra line.",
+      "revId": "717c972ade7fc960a085bdd43e9bb6d6347551e5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
