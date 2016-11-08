@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff2e2bb8_8bad3133",
+        "filename": "libril/ril.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 1657,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-11-08T19:20:17Z",
+      "side": 1,
+      "message": "I think you can actually use property_get_bool with the \"0\" and \"1\" and have it do what you expect so you don\u0027t have to do a strcmp below.",
+      "range": {
+        "startLine": 1657,
+        "startChar": 8,
+        "endLine": 1657,
+        "endChar": 20
+      },
+      "revId": "a52a3676b82206cae95c99dad62412f93f2191a3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
