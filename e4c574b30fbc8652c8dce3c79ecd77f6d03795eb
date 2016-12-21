@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_e03a0b96",
+        "filename": "msm8960.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-12-21T17:54:22Z",
+      "side": 1,
+      "message": "I think these are implied by core hardware?",
+      "range": {
+        "startLine": 22,
+        "startChar": 4,
+        "endLine": 23,
+        "endChar": 127
+      },
+      "revId": "e4c574b30fbc8652c8dce3c79ecd77f6d03795eb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_4042df11",
+        "filename": "msm8960.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-12-21T17:54:22Z",
+      "side": 1,
+      "message": "This might be implied by jazzhands.",
+      "range": {
+        "startLine": 29,
+        "startChar": 4,
+        "endLine": 29,
+        "endChar": 160
+      },
+      "revId": "e4c574b30fbc8652c8dce3c79ecd77f6d03795eb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
