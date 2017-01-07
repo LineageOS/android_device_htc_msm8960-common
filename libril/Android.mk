@@ -38,7 +38,8 @@ endif
 LOCAL_C_INCLUDES += $(TARGET_OUT_HEADERS)/librilutils
 LOCAL_C_INCLUDES += external/nanopb-c
 
-LOCAL_CLANG := false
+LOCAL_CLANG := true
+LOCAL_SANITIZE := integer
 
 LOCAL_MODULE:= libril
 
