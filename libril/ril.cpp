@@ -5670,7 +5670,10 @@ void RIL_onUnsolicitedResponse(int unsolResponse, const void *data,
                 unsolResponse = RIL_UNSOL_CDMA_NETWORK_BASE_PLUSCODE_DIAL;
                 break;
             case RIL_UNSOL_RESPONSE_PHONE_MODE_CHANGE_M7:
-                unsolResponse = RIL_UNSOL_RESPONSE_PHONE_MODE_CHANGE;
+                // remap directly to RIL_UNSOL_RESPONSE_VOICE_NETWORK_STATE_CHANGED
+                RLOGD("m7 supported unsolicited response code %d", unsolResponse);
+                unsolResponse = RIL_UNSOL_RESPONSE_VOICE_NETWORK_STATE_CHANGED;
+                unsolResponseIndex = 2;
                 break;
             case RIL_UNSOL_RESPONSE_DATA_NETWORK_STATE_CHANGED_M7:
                 unsolResponse = RIL_UNSOL_RESPONSE_DATA_NETWORK_STATE_CHANGED;
@@ -5712,7 +5715,8 @@ void RIL_onUnsolicitedResponse(int unsolResponse, const void *data,
                 unsolResponseIndex = htc_base + 9;
                 break;
             case RIL_UNSOL_RESPONSE_VOICE_NETWORK_STATE_CHANGED:
-                break;
+                if (unsolResponseIndex  == 2) // if not m7 code, fallback to unsupported
+                	break;
             default:
                 RLOGE("unsupported unsolicited response code %d", unsolResponse);
                 return;
